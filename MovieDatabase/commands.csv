@@ -1,0 +1,16 @@
+ADD, Star Wars, 12/23/1970, George Lucas, 672312312
+ADD, American Graffiti, 03/24/1968, George Lucas, 611232342
+ADD, Chitty Chitty Bang Bang, 12/18/1968, Ken Hughes, 681231231
+ADD, Aliens, 04/18/1986, James Cameron, 703211234
+ADD, Horny Afternoon, 12/16/1992, Ananth Grama, 878787878
+ADD, Meatspin Fun, 12/16/1992, Buster Dunsmore, 111111111
+ADD, Ballsack Sucker, 12-12-1212, Varun Vasudevan, 222222222
+LOOKUP, DIRECTOR, George Lucas
+EDIT, 681231231, DIRECTOR, Ken Bone
+EDIT, 703211234, DATE, 04/18/2016
+LOOKUP, DIRECTOR, Ken Bone
+LOOKUP, DATE, 04/18/2016
+REMOVE, 681231231
+REMOVE, 703211234
+DISPLAY, DATE, 0, 900
+

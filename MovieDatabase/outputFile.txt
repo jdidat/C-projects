@@ -1,0 +1,15 @@
+LOOKUP, DIRECTOR, George Lucas
+Star Wars, 12/23/2015, George Lucas, 672312312
+Indiana Jones, 03/24/1968, George Lucas, 611232342
+LOOKUP, DIRECTOR, Ken Bone
+Chitty Chitty Bang Bang, 12/18/1968, Ken Bone, 681231231
+LOOKUP, DATE, 04/18/2016
+Aliens, 04/18/2016, James Cameron, 703211234
+DISPLAY, DATE, 0, 900
+Indiana Jones, 03/24/1968, George Lucas, 611232342
+Meatspin Fun, 12/16/1992, Buster Dunsmore, 111111111
+Horny Afternoon, 12/16/1992, Ananth Grama, 878787878
+Spectacular Sausage Fest, 04/23/2007, Voicu Popescu, 98765432
+Mad Max Fury Road, 05/23/2015, George Miller, 999222333
+Backdoor Sluts, 06/23/2015, Farid Ramos, 777888233
+Star Wars, 12/23/2015, George Lucas, 672312312
